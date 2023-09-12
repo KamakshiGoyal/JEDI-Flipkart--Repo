@@ -8,6 +8,6 @@ public class Demo{
 	{
 
 		// Printing the read line
-		System.out.println("Learning Java);
+		System.out.println("Learning Java");
 	}
 }
